@@ -1,55 +1,33 @@
-# Unit 19 React Homework: Employee Directory
+# React Based Employee Directory
 
-## Overview
+## Description
 
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+This is a react based application used to show of some of state rendering and manipulation.
 
-## User Story
+The deployed application can be found at https://morning-headland-89121.herokuapp.com/
 
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
-## Business Context
 
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+## Instillation
 
-## Acceptance Criteria
+To install the application fork the repo and install on your local machine. Then you will need to install all the dependencies.  In order to do this open your terminal and run npm install -y. Be sure to set up your own sequel instance using the seeds and schema files. You will also need to change the information found on the connections.js file.
 
-Given a table of random users generated from the [Random User API](https://randomuser.me/), when the user loads the page, a table of employees should render. 
+## Usage
 
-The user should be able to:
+To use the application you can go to the deployed version provided above or deploy your own after installing. 
 
-  * Sort the table by at least one category
+The below video will give you a sample of what to expect. 
 
-  * Filter the users by at least one property.
+<a href="https://www.youtube.com/watch?v=mWkWTdhnn6c&feature=youtu.be" target="_blank"><img src="https://github.com/bcshanken/Burgers/blob/main/imgs/VideoImg.PNG?raw=true" 
+alt="video image" /></a>
 
-## Commit Early and Often
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
+## Credits
 
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
+The application uses heroku and mongoAtlas. 
 
-Follow these guidelines for committing:
+## License
+Copyright (c). All rights reserved.
 
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
-
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
-
-* Test your application before you commit to ensure functionality at every step in the development process
-
-* We would like you to have well over 200 commits by graduation, so commit early and often!
-
-* Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
-
-* **Important**: Be sure to push your codebase to GitHub and **NOT** your built and deployed code. Ensure this happens by following the above instructions and using the `gh-pages` branch to host the deployed application's code.
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* the URL to the deployed application
-
-* the URL to the Github repository
+Licensed under the MIT (https://github.com/bcshanken/Portfolio/blob/master/Assets/License/license.txt) license.
