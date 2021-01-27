@@ -10,7 +10,7 @@ The deployed application can be found at https://morning-headland-89121.herokuap
 
 ## Instillation
 
-To install the application fork the repo and install on your local machine. Then you will need to install all the dependencies.  In order to do this open your terminal and run npm install -y. Be sure to set up your own sequel instance using the seeds and schema files. You will also need to change the information found on the connections.js file.
+To install the application fork the repo and install on your local machine. Then you will need to install all the dependencies.  In order to do this open your terminal and run npm install -y. 
 
 ## Usage
 
@@ -18,7 +18,7 @@ To use the application you can go to the deployed version provided above or depl
 
 The below video will give you a sample of what to expect. 
 
-<a href="https://www.youtube.com/watch?v=mWkWTdhnn6c&feature=youtu.be" target="_blank"><img src="https://github.com/bcshanken/Burgers/blob/main/imgs/VideoImg.PNG?raw=true" 
+<a href="https://www.youtube.com/watch?v=u2USDutUH9U&feature=youtu.be" target="_blank"><img src="https://github.com/bcshanken/reactEmployees/blob/master/imgs/videoimg.PNG?raw=true" 
 alt="video image" /></a>
 
 
